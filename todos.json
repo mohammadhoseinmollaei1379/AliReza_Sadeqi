@@ -1,0 +1,29 @@
+[
+  {
+    "text": "وايب کدينک",
+    "done": false,
+    "deadline": "2026-06-25",
+    "category": "شخصی",
+    "priority": 3,
+    "elapsed": 0.0,
+    "recur": "none"
+  },
+  {
+    "text": "رياضي",
+    "done": false,
+    "deadline": "2025-10-12",
+    "category": "کار",
+    "priority": 2,
+    "elapsed": 0.0,
+    "recur": "none"
+  },
+  {
+    "text": "پايتون",
+    "done": false,
+    "deadline": null,
+    "category": "کار",
+    "priority": 3,
+    "elapsed": 0.0,
+    "recur": "none"
+  }
+]
